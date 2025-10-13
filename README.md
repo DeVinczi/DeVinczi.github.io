@@ -8,7 +8,7 @@ Najważniejsze: poniżej znajdują się dwie wersje dokumentu w jednym pliku —
 
 ### 1. Informacje ogólne
 Niniejsza Polityka Prywatności określa zasady przetwarzania danych osobowych Użytkowników Aplikacji mobilnej „UKS Zaspa” dostępnej w App Store i Google Play.  
-Administratorem danych osobowych jest UKS Zaspa (magda.spain@icloud.com, tel. 576 584 477).  
+Administratorem danych osobowych jest Dawid Slysz Software Solutions (dawid8sly@gmail.com, tel. 537 900 599).  
 Administrator stosuje środki techniczne i organizacyjne zgodnie z RODO.  
 Kontakt można nawiązać e-mailowo lub telefonicznie.
 
@@ -92,7 +92,7 @@ phone: +48 537 900 599
 
 ### 1. General information
 This Privacy Policy sets out the rules for processing personal data of users of the “UKS Zaspa” mobile application available on the App Store and Google Play.  
-The data controller is UKS Zaspa (magda.spain@icloud.com, phone: +48 576 584 477).  
+The data controller is UKS Zaspa Dawid Slysz Software Solutions (dawid8sly@gmail.com, tel. 537 900 599).  
 The controller applies technical and organizational measures in accordance with the GDPR.  
 Contact is possible via email or phone.
 
