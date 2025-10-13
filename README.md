@@ -1,7 +1,7 @@
 ## PL — Polityka Prywatności
 
 ### 1. Informacje ogólne
-Niniejsza Polityka Prywatności określa zasady przetwarzania danych osobowych Użytkowników Aplikacji mobilnej „UKS Zaspa” dostępnej w App Store i Google Play.  
+Niniejsza Polityka Prywatności określa zasady przetwarzania danych osobowych Użytkowników Aplikacji mobilnej „Centrum Treningowe” dostępnej w App Store i Google Play.  
 Administratorem danych osobowych jest Dawid Slysz Software Solutions (dawid8sly@gmail.com, tel. 537 900 599).  
 Administrator stosuje środki techniczne i organizacyjne zgodnie z RODO.  
 Kontakt można nawiązać e-mailowo lub telefonicznie.
