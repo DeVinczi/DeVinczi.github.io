@@ -163,5 +163,3 @@ Continued use of the app constitutes acceptance of changes.
 Dawid Slysz Software Solutions
 dawid8sly@gmail.com 
 phone: +48 537 900 599
-
-—
