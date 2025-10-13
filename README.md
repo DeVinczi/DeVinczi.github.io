@@ -165,5 +165,3 @@ dawid8sly@gmail.com
 phone: +48 537 900 599
 
 —
-
-Best option for you to explore W Twoim przypadku, mając użytkowników w Polsce i okazjonalnych anglojęzycznych rodziców, rekomendowane są dwa pliki (PL/EN) z przełącznikiem na stronie głównej. To ułatwi SEO i klarowność linków w e-mailach i powiadomieniach w aplikacji. Jeśli chcesz, można przygotować gotowy commit z plikami i minimalnym _config.yml.
