@@ -1,0 +1,18 @@
+title: "Centrum Treningowe"
+description: "Aplikacja mobilna Centrum Treningowe"
+url: "https://devinczi.github.io"
+baseurl: ""
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+nav:
+  - title: "Polityka Prywatności"
+    url: "/"
+
+plugins:
+  - jekyll-feed
+
+permalink: /:title/
