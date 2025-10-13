@@ -1,9 +1,3 @@
-# Polityka Prywatności / Privacy Policy (UKS Zaspa)
-
-Najważniejsze: poniżej znajdują się dwie wersje dokumentu w jednym pliku — po polsku oraz po angielsku. Na stronach GitHub Pages możesz dodać prosty przełącznik języka (anchor na nagłówki) albo rozdzielić na dwa pliki. Poniższy plik jest gotowy do wklejenia jako README.md lub privacy-policy.md.
-
-—
-
 ## PL — Polityka Prywatności
 
 ### 1. Informacje ogólne
