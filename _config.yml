@@ -11,6 +11,8 @@ kramdown:
 nav:
   - title: "Polityka Prywatności"
     url: "/"
+  - title: "Usunięcie konta"
+    url: "/delete-account"
 
 plugins:
   - jekyll-feed
