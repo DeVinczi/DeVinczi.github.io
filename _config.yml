@@ -16,3 +16,7 @@ nav:
 
 plugins:
   - jekyll-feed
+
+# SEO settings
+author: "Dawid Slysz Software Solutions"
+lang: "pl"
